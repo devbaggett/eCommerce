@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"gold",
+				"gold_score"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"patien",
+				"patient_name"
+			],
+			[
+				"pati",
+				"patient_list"
+			],
+			[
+				"disp",
+				"displayHospital"
+			],
+			[
+				"hos",
+				"hospital_name"
+			],
+			[
+				"dis",
+				"displayCall"
+			],
+			[
+				"displ",
+				"displayCallList"
+			],
+			[
+				"queue",
+				"queue_size"
+			],
+			[
+				"phone",
+				"phone_num"
+			],
+			[
+				"display",
+				"displayHealth"
+			],
+			[
+				"ur",
+				"urllib2"
+			],
+			[
+				"displa",
+				"displayInfo"
+			],
+			[
+				"replace",
+				"replace_words"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"border",
+				"border-bottom-width"
+			],
+			[
+				"inlien",
+				"inline"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"ranodm",
+				"random_color"
+			],
+			[
+				"form",
+				"form_fields"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"at",
+				"alt_src"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"days",
+				"daysUntilMyBirthday"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border-w",
+				"border-top-width"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"por",
+				"portfolio_images"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"siz",
+				"box-sizing"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"short",
+				"short-survey"
+			],
+			[
+				"big",
+				"biggieSize"
+			],
+			[
+				"add",
+				"addEvenCount"
+			],
+			[
+				"cel",
+				"celsiusToFahrenheit"
+			],
+			[
+				"move",
+				"moveMissiles"
+			],
+			[
+				"draw",
+				"drawMissiles"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"dra",
+				"drawWorld"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "Pack",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 249.0,
+		"history":
+		[
+			"clear",
+			"run answer.js",
+			"ls",
+			"cd ..",
+			"dir",
+			"open",
+			"dir",
+			"ls",
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/devbaggett/Desktop/dev/ecommerce",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/ecommerce",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/ecommerce/__pycache__",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products/__pycache__",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products/templates",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products/templates/products",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products/templates/products/snippets",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/static_my_project",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/static_my_project/css",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/static_my_project/img",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/auth",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/base",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/contact",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/products"
+	],
+	"file_history":
+	[
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/static_my_project/css/main.css",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/base/js.html",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/ecommerce/views.py",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/base/navbar.html",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/base/css.html",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products/admin.py",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/ecommerce/settings.py",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/products/models.py",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/templates/contact/base.html",
+		"/Users/devbaggett/Desktop/dev/ecommerce/forms.py",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/ecommerce/urls.py",
+		"/Users/devbaggett/Desktop/dev/ecommerce/src/ecommerce/home_page.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/static/belt/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/templates/belt/details.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/templates/belt/add.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/templates/belt/books.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/templates/belt/users.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/templates/belt/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/views.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/urls.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/models.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/apps/belt/apps.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/belt_reviewer/urls.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/belt_reviewer/belt_reviewer/settings.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/django_app/apps/blogs_app/urls.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/django_app/apps/blogs_app/views.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/django_app/django_app/settings.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/django_app/django_app/urls.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/django_app/apps/blogs_app/apps.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/django/main/main/settings.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/the_wall/wall2.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/the_wall/templates/wall.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/the_wall/templates/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/the_wall/the_wall.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/email_validation_w_db/templates/process.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/email_validation_w_db/email_validation_w_db.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/registration_form/email_validation_w_db.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/ninja_gold/ninja_gold.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/ninja_gold/templates/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/great_number_game/eric.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/great_number_game/templates/index_eric.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/great_number_game/eric.ph",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/great_number_game/templates/guess.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/great_number_game/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/form_test/templates/success.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/friends/templates/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/friendships/friendships_query.sql",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/friendships/friendships_data.sql",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_MySQL/Sakila/sakila_queries.sql",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/disappearing_ninja_turtle/templates/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/disappearing_ninja_turtle/templates/turtle.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/disappearing_ninja_turtle/templates/ninja.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/disappearing_ninja_turtle/server.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/dojo_survey/static/dojo_survey_style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/dojo_survey/templates/result.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/portfolio/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/hello_flask/hello.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/landing_page/landing_page.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/dojo_survey/templates/static/dojo_survey_style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/form_test/server1.py",
+		"/Users/devbaggett/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/whats_my_name/templates/form.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/embedded_python/server.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/portfolio/porfolio.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/form_test/templates/user.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/form_test/templates/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/form_test/server2.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/form_test/server3.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/python_stack/flask_fundamentals/hello_flask/static/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/HTML/indentation.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/making_tuples.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/OOP/animal/animal.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/OOP/math_dojo.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/OOP/products.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/kyles_reference.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/compare_lists.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/filter_by_type.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/multiples_sum_average.py",
+		"/Users/devbaggett/Desktop/DojoAssignments/Python/strings_and_lists.py",
+		"/Users/devbaggett/temp/temp.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/contact_card/script.js",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/color_clicker.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/disappearing_ninja/disappearing_ninja.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/ninja_cat/ninja_cat.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/disappearing_ninja/disappearing_ninja.zip",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/Disappearing Ninja/disappearing_ninja.js",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/Disappearing Ninja/disappearing_ninja.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/Disappearing Ninja/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/exams/modernize/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/exams/modernize/modernize.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/jquery_functions/jquery_functions.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/jquery_functions.js",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/jquery_functions.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/jquery_style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/JavaScript Basics/JavaScript Basics.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/About Python/about_python.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/students_and_instructors.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/random_chance.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/About Python/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/JavaScript Basics/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/temp/untitled.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/numbers_only.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/for_a_few_billion.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/fancy_array.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/range_print.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/while_you_wait.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/can_i_have_the_time.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/Javascript/i_do_declare.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/PlottingBlocks/Plotting_Your_Blocks.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/PlottingBlocks/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/style.css",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/Plotting_Your_Blocks.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/temp/Plotting_Your_Blocks.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/temp/index.html",
+		"/Users/devbaggett/Desktop/DojoAssignments/WebFundamentals/CSS/temp/style.css",
+		"/Users/devbaggett/Documents/CodingDojo/Prework/answers.js",
+		"/Users/devbaggett/Documents/CodingDojo/Sublime/HTML Fundamentals/Fake Blog.html",
+		"/Users/devbaggett/Documents/CodingDojo/Sublime/HTML Fundamentals/Registration Form.html",
+		"/Users/devbaggett/Documents/CodingDojo/Sublime/HTML Fundamentals/indent.html",
+		"/Users/devbaggett/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/Users/devbaggett/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/answers.js",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/HTML Fundamentals/Registration Form.html",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/ninja game/index.html",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/academy-pacman-master/ninjaman.html",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/academy-airplane-master/index.html",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/HTML Fundamentals/index.html",
+		"/Users/devbaggett/Documents/Coding Dojo/Sublime/helloworld.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
