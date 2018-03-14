@@ -14,7 +14,9 @@
   </head>
   <body>
    	{% include 'base/navbar.html' with brand_name='eCommerce' %}
+    <div class="container"> <!-- makes sure all this content below is in container -->
     {% block content %}{% endblock %}
+    </div>
 
     {% include 'base/js.html' %}
 
